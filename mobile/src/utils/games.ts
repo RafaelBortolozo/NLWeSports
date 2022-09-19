@@ -13,7 +13,7 @@ export const GAMES = [
   },
   {
     id: '3',
-    name: 'CS-GO',
+    name: 'Counter-Strike',
     ads: '2',
     cover: require('../assets/games/game-3.png')
   },
